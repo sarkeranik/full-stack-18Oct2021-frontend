@@ -1,1 +1,1 @@
-# my-restaurants front project
+# my-restaurants frontend project
