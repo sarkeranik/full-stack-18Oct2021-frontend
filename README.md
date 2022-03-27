@@ -1,3 +1,1 @@
-# my-restaurants
-
-TODO
+# my-restaurants front project
